@@ -1,5 +1,6 @@
 ---
-title: "About This Website"
+title: "About Me"
 ---
 
-More about this website.
+Zihan(Teddy)Guo is the Epidemiology-trained public health researcher with experience in clinical
+research, healthcare data analysis, and translational research across population and laboratory settings. Skilled in R, SAS, Python, and SPSS, with expertise in longitudinal analysis, molecular assays, cell processing, and scientific writing.

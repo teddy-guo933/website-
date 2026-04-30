@@ -1,9 +1,31 @@
 name: "Zihan(Teddy)Guo's website"
 output_dir: docs
 navbar:
-  title: "Zihan(Teddy)Guo's website"
+  title: "Zihan(Teddy)Guo's Website"
   left:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
+  - text: Home
+    href: index.html
+    icon: fa-home
+  - text: About
+    href: about.html
+    icon: fa-book-open
+  - text: Projects
+    href: project.html
+    icon: fa-computer
+  - text: Curriculum Vitae
+    href: files/zihan_teddy_guo-CV.pdf
+    icon: fa-file
+  - text: Resume
+    href: files/Zihan_Guo_Resume1.pdf
+    icon: fa-paperclip
+  right:
+  - href: https://github.com/teddy-guo933
+    icon: fa-github
+  - href: https://www.linkedin.com/in/zihan-guo-533598204/
+    icon: fa-linkedin
+output:
+  html_document:
+    theme: sandstone
+    css: style.css
+    includes: 
+      in_header: header.html
