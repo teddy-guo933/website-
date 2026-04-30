@@ -1,6 +1,7 @@
-name: "my-website"
+name: "Zihan(Teddy)Guo's website"
+output_dir: docs
 navbar:
-  title: "My Website"
+  title: "Zihan(Teddy)Guo's website"
   left:
     - text: "Home"
       href: index.html
