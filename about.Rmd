@@ -2,5 +2,32 @@
 title: "About Me"
 ---
 
-Zihan(Teddy)Guo is the Epidemiology-trained public health researcher with experience in clinical
-research, healthcare data analysis, and translational research across population and laboratory settings. Skilled in R, SAS, Python, and SPSS, with expertise in longitudinal analysis, molecular assays, cell processing, and scientific writing.
+<div class="about-page">
+
+Zihan (Teddy) Guo is an epidemiology-trained public health researcher with experience in clinical research, healthcare data analysis, and translational research across population and laboratory settings. His work focuses on using epidemiologic methods and reproducible data workflows to better understand health outcomes and communicate findings clearly.
+
+## Research Interests
+
+My research interests include **epidemiology**, **clinical research**, **real-world evidence**, **cardiometabolic health**, **HIV prevention**, and **health data analytics**. I am especially interested in projects that combine statistical modeling, electronic health record data, and clear scientific communication to support public health and clinical decision-making.
+
+## Currently Seeking
+
+I am currently seeking opportunities in **epidemiology**, **clinical research**, **real-world evidence**, **health data analytics**. I am especially interested in roles where I can apply my training in public health methods, statistical programming, clinical data analysis, and scientific communication to support meaningful healthcare research or related jobs.
+
+I am open to positions such as **Clinical Research Coordinator**, **Research Assistant**, **Research Associate**, **Epidemiology Analyst**, **Data Analyst**, **Consulting** and other research-focused roles in academic medical centers, hospitals, public health organizations, and healthcare research settings.
+
+## Technical Skills
+
+- **Programming and data analysis:** R, SAS, Python, SPSS  
+- **Statistical methods:** regression modeling, longitudinal data analysis, mixed-effects models, GEE, and prevalence ratio estimation  
+- **Data visualization:** ggplot2, Plotly, R Markdown, interactive dashboards, Shiny,Tableau
+- **Laboratory Skills:** RNA extraction, RT-qPCR/qPCR, p24 ELISA, multiplex cytokine assays, cell culture, cytotoxicity assays, primary cell and tissue processing, HIV latency reactivation assays, and molecular assay data interpretation
+- **Research workflow:** data cleaning, reproducible reporting, literature review, manuscript writing, and poster development  
+
+## What I Bring
+
+I bring a strong sense of ownership, curiosity, and energy to the research process. I enjoy learning new methods, asking careful questions, and taking the initiative to move projects forward. Whether I am cleaning a complex dataset, reviewing the literature, running statistical models, preparing a report, or doing repetitive laboratory experiment, I try to be detail-oriented, organized, and thoughtful about how each step connects to the larger research question.
+
+My background combines population health training, clinical data experience, and laboratory research exposure, which allows me to approach research questions from both data-driven and biological perspectives. I am especially motivated by work that requires careful problem-solving, collaboration, and clear communication.
+
+</div>

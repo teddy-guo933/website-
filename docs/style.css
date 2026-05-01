@@ -14,3 +14,31 @@ a:hover {
   color: #1A5BB8;  /* pick your favorite color for links when mouse hovers */
   text-decoration: underline;
 }
+
+.about-text {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.fun-animation {
+  font-size: 34px;
+  margin-top: 15px;
+  animation: float 2.5s ease-in-out infinite;
+}
+
+@keyframes float {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-8px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+.about-page {
+  font-size: 18px;
+  line-height: 1.6;
+}

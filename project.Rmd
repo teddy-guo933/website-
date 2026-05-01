@@ -1,5 +1,5 @@
 ---
-title: "Teddy's GitHub/R project"
+title: "Teddy's GitHub/R project example"
 ---
 
 
