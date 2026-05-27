@@ -15,7 +15,7 @@ knitr::include_graphics("images/profile.png")
 
 ::: {.column .about-text width="50%" style="text-align: left;"}
 
-`r fontawesome::fa("school")` Hi, I’m Zihan (Teddy) Guo. I’m a public health and epidemiology student who enjoys turning messy health data into clear, useful stories. I completed my B.A. in Public Health with a Biology focus at Franklin & Marshall College, and I completing my Master of Science in Public Health in Epidemiology at Emory University.
+`r fontawesome::fa("school")` Hi, I’m Zihan (Teddy) Guo. I’m a public health and epidemiology student who enjoys turning messy health data into clear, useful stories. I completed my B.A. in Public Health with a Biology focus at Franklin & Marshall College, and I completed my Master of Science in Public Health in Epidemiology at Emory University.
 
 `r fontawesome::fa("book-open")` My work focuses on epidemiologic research, clinical data analysis, and reproducible reporting. I like using tools such as R, SAS, and Python to clean data, run statistical models, create visualizations, and build interactive dashboards. I’m especially interested in roles related to epidemiology, clinical research, real-world evidence, and health analytics.
 
