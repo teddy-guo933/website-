@@ -1,7 +1,6 @@
 ---
-title: "Teddy's GitHub/R project example"
+title: "Teddy's GitHub/R Project Examples"
 ---
-
 
 <style>
 .panel-default {
@@ -33,24 +32,25 @@ title: "Teddy's GitHub/R project example"
   color: inherit !important;
 }
 </style>
-<p class="subtitle">Click on each project box to view the corresponding webpage.</p>
 
+<p class="subtitle">Click on each project box to view the corresponding webpage.</p>
 
 <div class="row">
 
-<div class="col-sm-6">
+<div class="col-sm-4">
 <a href="https://github.com/teddy-guo933/Final_project_cardio" class="project-link">
 <div class="panel panel-default">
 <div class="panel-heading">
-<h3 class="panel-title">Github Project</h3>
+<h3 class="panel-title">GitHub Project</h3>
 </div>
 <div class="panel-body">
-<p>For this project, I analyzed CDC heart disease mortality data among U.S. adults aged 35 years and older from 2018 to 2020. I built a reproducible R workflow to import, clean, and recode the dataset, generate descriptive statistics, create visualizations of mortality patterns by demographic and geographic factors, and fit regression models to identify factors associated with heart disease mortality rates. The project also included an automated reporting pipeline that renders the final HTML report, with outputs organized into separate folders for cleaned data, figures, tables, and the final report. To improve reproducibility, I used renv, a Makefile, and Docker so the full analysis can be rebuilt in a consistent computing environment. </p>
+<p>For this project, I analyzed CDC heart disease mortality data among U.S. adults aged 35 years and older from 2018 to 2020. I built a reproducible R workflow to import, clean, and recode the dataset, generate descriptive statistics, create visualizations of mortality patterns by demographic and geographic factors, and fit regression models to identify factors associated with heart disease mortality rates. The project also included an automated reporting pipeline that renders the final HTML report, with outputs organized into separate folders for cleaned data, figures, tables, and the final report. To improve reproducibility, I used renv, a Makefile, and Docker so the full analysis can be rebuilt in a consistent computing environment.</p>
 </div>
 </div>
 </a>
 </div>
-<div class="col-sm-6">
+
+<div class="col-sm-4">
 <a href="https://teddy-guo933.github.io/Thesis_dashboard/" class="project-link">
 <div class="panel panel-default">
 <div class="panel-heading">
@@ -62,4 +62,18 @@ title: "Teddy's GitHub/R project example"
 </div>
 </a>
 </div>
+
+<div class="col-sm-4">
+<a href="https://github.com/teddy-guo933/website-" class="project-link">
+<div class="panel panel-default">
+<div class="panel-heading">
+<h3 class="panel-title">Personal Academic Website</h3>
+</div>
+<div class="panel-body">
+<p>For this project, I created a personal academic website using R Markdown and GitHub Pages to present my academic background, research experience, projects, curriculum vitae, and resume in a clear and accessible format. I customized the website navigation bar, page structure, styling, and linked documents to create a professional online portfolio. This project demonstrates my ability to build and maintain a reproducible personal website, organize web content, and use GitHub for version control and public-facing project presentation.</p>
+</div>
+</div>
+</a>
+</div>
+
 </div>
