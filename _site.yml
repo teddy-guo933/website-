@@ -13,10 +13,10 @@ navbar:
     href: project.html
     icon: fa-computer
   - text: Curriculum Vitae
-    href: files/zihan_teddy_guo-CV.pdf
+    href: files/zihan_teddy_guo-CV-2026.pdf
     icon: fa-file
   - text: Resume
-    href: files/Zihan_Guo_Resume1.pdf
+    href: files/Zihan_Guo_Resume-2026.pdf
     icon: fa-paperclip
   right:
   - href: https://github.com/teddy-guo933

@@ -6,20 +6,29 @@ title: "About Me"
 
 Zihan (Teddy) Guo is an epidemiology-trained public health researcher with experience in clinical research, healthcare data analysis, and translational research across population and laboratory settings. His work focuses on using epidemiologic methods and reproducible data workflows to better understand health outcomes and communicate findings clearly.
 
+
+## Current Role
+
+I currently work as a **Data Reporting and Analytics Consultant II at Kaiser Permanente Division of Research**, where I extract and integrate data from clinical databases and internal healthcare datasets to support research projects. My responsibilities include developing analysis-ready datasets, performing data quality checks, and independently conducting statistical analyses to address project-specific research questions.
+
+Alongside my primary responsibilities, I participate in a **clinical trial practice group**, working on projects that involve analyzing clinical trial datasets and interpreting the results to further develop my skills in clinical trial data analysis.
+
 ## Research Interests
 
 My research interests include **epidemiology**, **clinical research**, **real-world evidence**, **cardiometabolic health**, **HIV prevention**, and **health data analytics**. I am especially interested in projects that combine statistical modeling, electronic health record data, and clear scientific communication to support public health and clinical decision-making.
 
-## Currently Seeking
 
-I am currently seeking opportunities in **epidemiology**, **clinical research**, **real-world evidence**, **health data analytics**. I am especially interested in roles where I can apply my training in public health methods, statistical programming, clinical data analysis, and scientific communication to support meaningful healthcare research or related jobs.
+## Career Interests
 
-I am open to positions such as **Clinical Research Coordinator**, **Research Assistant**, **Research Associate**, **Epidemiology Analyst**, **Data Analyst**, **Consulting** and other research-focused roles in academic medical centers, hospitals, public health organizations, and healthcare research settings.
+I am interested in exploring opportunities in **epidemiology**, **clinical research**, **real-world evidence**, and **health data analytics**. I am particularly drawn to roles where I can apply my training in public health methods, statistical programming, clinical data analysis, and scientific communication to support healthcare research.
+
+My interests span research, analytical, and consulting roles in academic medical centers, hospitals, public health organizations, and healthcare research settings.
 
 ## Technical Skills
 
-- **Programming and data analysis:** R, SAS, Python, SPSS  
+- **Programming and data analysis:** R, SAS, Python, SPSS, SQL, Clinical Notes Review 
 - **Statistical methods:** regression modeling, longitudinal data analysis, mixed-effects models, GEE, and prevalence ratio estimation  
+- **Data visualization:** Clinical database querying, electronic health record data extraction, data integration, analytical dataset development, and data quality assessment
 - **Data visualization:** ggplot2, Plotly, R Markdown, interactive dashboards, Shiny,Tableau
 - **Laboratory Skills:** RNA extraction, RT-qPCR/qPCR, p24 ELISA, multiplex cytokine assays, cell culture, cytotoxicity assays, primary cell and tissue processing, HIV latency reactivation assays, and molecular assay data interpretation
 - **Research workflow:** data cleaning, reproducible reporting, literature review, manuscript writing, and poster development  
